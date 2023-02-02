@@ -1,1 +1,1 @@
-# stepic_auto_test
+uto_test
